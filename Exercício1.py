@@ -1,3 +1,7 @@
+# Considere os diagramas UML dos seguintes itens. Construa o código das respectivas
+# classes e crie 2 objetos usando o método construtor criado, e o preencha com dados
+# fornecidos pelo usuário. Exiba os dados dos objetos.
+
 class Paciente:
     def __init__ (self, n, rg, end, tel, dataN, prof):
         self.nome = n
